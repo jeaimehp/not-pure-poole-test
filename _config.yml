@@ -2,10 +2,10 @@
 title: "Je'aime Powell"
 description: A portfolio of various projects and experiences. 
 url: https://jeaimehp.github.io/not-pure-poole-test
-avatar: /avatar.jpeg
+avatar: /Jeaime-Meh.jpeg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /IMG_1182-Large.jpeg
 
 # Gems
 plugins:
@@ -29,14 +29,14 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: jeaimehp
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Jeaime Powell
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://twitter.com/jeaimehp
+    - https://github.com/jeaimehp
 google_site_verification: xxxxx
 lang: en
 
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Jeaime Powell
+  url: https://github.com/jeaimehp
+  email: jeaimehp@gmail.com
